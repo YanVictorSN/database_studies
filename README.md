@@ -27,7 +27,7 @@ Função Pedido
 - Criar pedido
 
 Tecnologias e Ferramentas:
-JavaScript
-PostgreSQL
-SQL(Structured Query Language)
-NodeJS
+- JavaScript
+- PostgreSQL
+- SQL(Structured Query Language)
+- Node.Js
